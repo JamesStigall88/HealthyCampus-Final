@@ -7,6 +7,6 @@ Below is the link to the presentation for the project made during the challenge.
 
 https://www.youtube.com/live/zocNbwMiMbU?si=qGM-B2Woetbn9SlL&t=7900
 
-If you would like to experiment with it, create a new Xcode project and copy each script and sub-folder into that project.
+If you would like to experiment with it, create a new Xcode project and copy each script and sub-folder into that project. <b>Please be sure to delete any duplicate files!</b>
 
 If you have any questions or concerns about the project, you can can reach out to me at james_stgll@yahoo.com
